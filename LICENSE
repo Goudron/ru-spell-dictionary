@@ -1,3 +1,10 @@
+Copyright (c) 2026, Valery Ledovskoy
+SPDX-License-Identifier: MPL-2.0
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 Mozilla Public License Version 2.0
 ==================================
 
@@ -67,21 +74,20 @@ Mozilla Public License Version 2.0
 1.12. "Secondary License"
     means either the GNU General Public License, Version 2.0, the GNU
     Lesser General Public License, Version 2.1, the GNU Affero General
-    Public License, Version 3.0, or any later versions of those
-    licenses.
+    Public License, Version 3.0, or any later versions of those licenses.
 
 1.13. "Source Code Form"
     means the form of the work preferred for making modifications.
 
 1.14. "You" (or "Your")
     means an individual or a legal entity exercising rights under this
-    License. For legal entities, "You" includes any entity that
-    controls, is controlled by, or is under common control with You. For
-    purposes of this definition, "control" means (a) the power, direct
-    or indirect, to cause the direction or management of such entity,
-    whether by contract or otherwise, or (b) ownership of more than
-    fifty percent (50%) of the outstanding shares or beneficial
-    ownership of such entity.
+    License. For legal entities, "You" includes any entity that controls,
+    is controlled by, or is under common control with You. For purposes of
+    this definition, "control" means (a) the power, direct or indirect,
+    to cause the direction or management of such entity, whether by
+    contract or otherwise, or (b) ownership of more than fifty percent
+    (50%) of the outstanding shares or beneficial ownership of such
+    entity.
 
 2. License Grants and Conditions
 --------------------------------
@@ -97,8 +103,8 @@ non-exclusive license:
     Contributions, either on an unmodified basis, with Modifications, or
     as part of a Larger Work; and
 
-(b) under Patent Claims of such Contributor to make, use, sell, offer
-    for sale, have made, import, and otherwise transfer either its
+(b) under Patent Claims of such Contributor to make, use, sell, offer for
+    sale, have made, import, and otherwise transfer either its
     Contributions or its Contributor Version.
 
 2.2. Effective Date
@@ -115,8 +121,7 @@ distribution or licensing of Covered Software under this License.
 Notwithstanding Section 2.1(b) above, no patent license is granted by a
 Contributor:
 
-(a) for any code that a Contributor has removed from Covered Software;
-    or
+(a) for any code that a Contributor has removed from Covered Software; or
 
 (b) for infringements caused by: (i) Your and any other third party's
     modifications of Covered Software, or (ii) the combination of its
@@ -171,11 +176,11 @@ Form.
 
 If You distribute Covered Software in Executable Form then:
 
-(a) such Covered Software must also be made available in Source Code
-    Form, as described in Section 3.1, and You must inform recipients of
-    the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more
-    than the cost of distribution to the recipient; and
+(a) such Covered Software must also be made available in Source Code Form,
+    as described in Section 3.1, and You must inform recipients of the
+    Executable Form how they can obtain a copy of such Source Code Form
+    by reasonable means in a timely manner, at a charge no more than the
+    cost of distribution to the recipient; and
 
 (b) You may distribute such Executable Form under the terms of this
     License, or sublicense it under different terms, provided that the
@@ -198,10 +203,10 @@ License(s).
 3.4. Notices
 
 You may not remove or alter the substance of any license notices
-(including copyright notices, patent notices, disclaimers of warranty,
-or limitations of liability) contained within the Source Code Form of
-the Covered Software, except that You may alter any license notices to
-the extent required to remedy known factual inaccuracies.
+(including copyright notices, patent notices, disclaimers of warranty, or
+limitations of liability) contained within the Source Code Form of the
+Covered Software, except that You may alter any license notices to the
+extent required to remedy known factual inaccuracies.
 
 3.5. Application of Additional Terms
 
@@ -221,13 +226,13 @@ jurisdiction.
 
 If it is impossible for You to comply with any of the terms of this
 License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: (a) comply with
-the terms of this License to the maximum extent possible; and (b)
-describe the limitations and the code they affect. Such description must
-be placed in a text file included with all distributions of the Covered
-Software under this License. Except to the extent prohibited by statute
-or regulation, such description must be sufficiently detailed for a
-recipient of ordinary skill to be able to understand it.
+statute, judicial order, or regulation then You must: (a) comply with the
+terms of this License to the maximum extent possible; and (b) describe
+the limitations and the code they affect. Such description must be placed
+in a text file included with all distributions of the Covered Software
+under this License. Except to the extent prohibited by statute or
+regulation, such description must be sufficiently detailed for a recipient
+of ordinary skill to be able to understand it.
 
 5. Termination
 --------------
@@ -264,16 +269,16 @@ prior to termination shall survive termination.
 *  -------------------------                                           *
 *                                                                      *
 *  Covered Software is provided under this License on an "as is"       *
-*  basis, without warranty of any kind, either expressed, implied, or  *
-*  statutory, including, without limitation, warranties that the       *
+*  basis, without warranty of any kind, either expressed, implied, or   *
+*  statutory, including, without limitation, warranties that the        *
 *  Covered Software is free of defects, merchantable, fit for a        *
-*  particular purpose or non-infringing. The entire risk as to the     *
-*  quality and performance of the Covered Software is with You.        *
-*  Should any Covered Software prove defective in any respect, You     *
-*  (not any Contributor) assume the cost of any necessary servicing,   *
-*  repair, or correction. This disclaimer of warranty constitutes an   *
-*  essential part of this License. No use of any Covered Software is   *
-*  authorized under this License except under this disclaimer.         *
+*  particular purpose or non-infringing. The entire risk as to the      *
+*  quality and performance of the Covered Software is with You.         *
+*  Should any Covered Software prove defective in any respect, You      *
+*  (not any Contributor) assume the cost of any necessary servicing,    *
+*  repair, or correction. This disclaimer of warranty constitutes an    *
+*  essential part of this License. No use of any Covered Software is    *
+*  authorized under this License except under this disclaimer.          *
 *                                                                      *
 ************************************************************************
 
@@ -282,30 +287,29 @@ prior to termination shall survive termination.
 *  7. Limitation of Liability                                          *
 *  --------------------------                                          *
 *                                                                      *
-*  Under no circumstances and under no legal theory, whether tort      *
-*  (including negligence), contract, or otherwise, shall any           *
-*  Contributor, or anyone who distributes Covered Software as          *
-*  permitted above, be liable to You for any direct, indirect,         *
-*  special, incidental, or consequential damages of any character      *
-*  including, without limitation, damages for lost profits, loss of    *
-*  goodwill, work stoppage, computer failure or malfunction, or any    *
-*  and all other commercial damages or losses, even if such party      *
-*  shall have been informed of the possibility of such damages. This   *
-*  limitation of liability shall not apply to liability for death or   *
-*  personal injury resulting from such party's negligence to the       *
-*  extent applicable law prohibits such limitation. Some               *
-*  jurisdictions do not allow the exclusion or limitation of           *
-*  incidental or consequential damages, so this exclusion and          *
-*  limitation may not apply to You.                                    *
+*  Under no circumstances and under no legal theory, whether tort       *
+*  (including negligence), contract, or otherwise, shall any            *
+*  Contributor, or anyone who distributes Covered Software as permitted *
+*  above, be liable to You for any direct, indirect, special,           *
+*  incidental, or consequential damages of any character including,     *
+*  without limitation, damages for lost profits, loss of goodwill,      *
+*  work stoppage, computer failure or malfunction, or any and all       *
+*  other commercial damages or losses, even if such party shall have    *
+*  been informed of the possibility of such damages. This limitation    *
+*  of liability shall not apply to liability for death or personal      *
+*  injury resulting from such party's negligence to the extent          *
+*  applicable law prohibits such limitation. Some jurisdictions do not  *
+*  allow the exclusion or limitation of incidental or consequential     *
+*  damages, so this exclusion and limitation may not apply to You.      *
 *                                                                      *
 ************************************************************************
 
 8. Litigation
 -------------
 
-Any litigation relating to this License may be brought only in the
-courts of a jurisdiction where the defendant maintains its principal
-place of business and such litigation shall be governed by laws of that
+Any litigation relating to this License may be brought only in the courts
+of a jurisdiction where the defendant maintains its principal place of
+business and such litigation shall be governed by laws of that
 jurisdiction, without reference to its conflict-of-law provisions.
 Nothing in this Section shall prevent a party's ability to bring
 cross-claims or counter-claims.
@@ -332,18 +336,18 @@ distinguishing version number.
 
 10.2. Effect of New Versions
 
-You may distribute the Covered Software under the terms of the version
-of the License under which You originally received the Covered Software,
-or under the terms of any subsequent version published by the license
+You may distribute the Covered Software under the terms of the version of
+the License under which You originally received the Covered Software, or
+under the terms of any subsequent version published by the license
 steward.
 
 10.3. Modified Versions
 
 If you create software not governed by this License, and you want to
-create a new license for such software, you may create and use a
-modified version of this License if you rename the license and remove
-any references to the name of the license steward (except to note that
-such modified license differs from this License).
+create a new license for such software, you may create and use a modified
+version of this License if you rename the license and remove any
+references to the name of the license steward (except to note that such
+modified license differs from this License).
 
 10.4. Distributing Source Code Form that is Incompatible With Secondary
 Licenses
@@ -359,15 +363,42 @@ Exhibit A - Source Code Form License Notice
   License, v. 2.0. If a copy of the MPL was not distributed with this
   file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
-file in a relevant directory) where a recipient would be likely to look
-for such a notice.
-
-You may add additional accurate notices of copyright ownership.
-
 Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---------------------------------------------------------
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
+
+
+Upstream BSD-style notice for the Lebedev-family Russian dictionary baseline
+-------------------------------------------------------------------------------
+
+Copyright (c) 1997-2008, Alexander I. Lebedev All rights reserved.
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, this
+  list of conditions and the following disclaimer in the documentation and/or
+  other materials provided with the distribution.
+* Modified versions must be clearly marked as such.
+* The name of Alexander I. Lebedev may not be used to endorse or promote
+  products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+LibreOffice-family modification notice
+--------------------------------------
+
+2012-08-24: Laszlo Nemeth (nemeth at numbertext org), ru_RU.aff: add TRY line for better suggestions.
