@@ -1,0 +1,137 @@
+{
+  "package": "ruspell-lab-cspell-ru_RU",
+  "milestone": "34",
+  "dictionary_name": "ru_RU_project",
+  "source_aff": "dictionary/ru_RU.aff",
+  "source_dic": "dictionary/ru_RU.dic",
+  "source_encoding": "KOI8-R",
+  "source_dic_declared_entries": 179956,
+  "source_dic_actual_entries": 179956,
+  "affix_class_count": 25,
+  "affix_rule_count": 1581,
+  "generated_unique_words": 1789749,
+  "generated_affix_forms": 1676744,
+  "wordlist_path": "cspell/dictionaries/ru_RU.txt.gz",
+  "wordlist_raw_utf8_bytes": 41264531,
+  "wordlist_gzip_bytes": 6890403,
+  "wordlist_sha256": "cc44cf0b7ccb358d180c98df8ea1547540cfd55ee13596f590b7e62c4a918808",
+  "positive_smoke_words": [
+    "непосещенный",
+    "непосещённый",
+    "непрочтенный",
+    "непрочтённый",
+    "кешем",
+    "кэша",
+    "форка",
+    "просмотрщика"
+  ],
+  "negative_smoke_words": [
+    "форкы",
+    "просмотрщикы",
+    "кешшы",
+    "кэшшы"
+  ],
+  "top_source_flags": [
+    [
+      "A",
+      71729
+    ],
+    [
+      "L",
+      27935
+    ],
+    [
+      "K",
+      17452
+    ],
+    [
+      "B",
+      16824
+    ],
+    [
+      "J",
+      14808
+    ],
+    [
+      "M",
+      13416
+    ],
+    [
+      "P",
+      13384
+    ],
+    [
+      "I",
+      11599
+    ],
+    [
+      "R",
+      11031
+    ],
+    [
+      "S",
+      10502
+    ],
+    [
+      "H",
+      7803
+    ],
+    [
+      "W",
+      5615
+    ],
+    [
+      "F",
+      5497
+    ],
+    [
+      "U",
+      4137
+    ],
+    [
+      "O",
+      3496
+    ],
+    [
+      "T",
+      2718
+    ],
+    [
+      "D",
+      1748
+    ],
+    [
+      "Q",
+      1507
+    ],
+    [
+      "Z",
+      1465
+    ],
+    [
+      "Y",
+      1230
+    ],
+    [
+      "E",
+      1071
+    ],
+    [
+      "X",
+      751
+    ],
+    [
+      "N",
+      651
+    ],
+    [
+      "G",
+      298
+    ],
+    [
+      "V",
+      244
+    ]
+  ],
+  "manifest_path": "cspell/dictionaries/manifest.json"
+}
